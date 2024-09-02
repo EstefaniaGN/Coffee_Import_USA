@@ -1,4 +1,4 @@
->> About Dataset
+> # About Dataset
 
 This dataset was created to provide information about the importation of coffee from Colombia to the USA from 2019 to 2024. The dataset includes the HS code, product description, year, month, value in USD, and quantity in KG.
 
@@ -6,8 +6,9 @@ This dataset was created to provide information about the importation of coffee 
 - Perform an analysis of the products that are imported in the highest quantities
 - Based on the collected data, draw some conclusions and perform an analysis.
 
+> I collected the data from the usda.gov website, where you can sort and query the information. I downloaded data for each year and accumulated information from 2019 to 2024. All the datasets were downloaded in Excel format.
 
->>> The language program I worked on was SQL in BigQuery. The code presented is not related to Python.
+> The language program I worked on was SQL in BigQuery. The code presented is not related to Python.
 
 # Cleaning Data 
 
